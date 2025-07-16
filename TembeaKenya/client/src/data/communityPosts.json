@@ -1,0 +1,77 @@
+[
+  {
+    "id": "post-1",
+    "author": {
+      "name": "Adventure Explorer",
+      "initials": "AE"
+    },
+    "caption": "Just witnessed the most incredible sunset at Diani Beach! The colors were absolutely magical. 🌅",
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "tags": ["#DianiBeach", "#Sunset", "#Kenya"],
+    "likes": 24,
+    "comments": 8,
+    "views": 156,
+    "credits": 32,
+    "timestamp": "2 hours ago"
+  },
+  {
+    "id": "post-2",
+    "author": {
+      "name": "Mombasa Wanderer",
+      "initials": "MW"
+    },
+    "caption": "The Great Migration in Masai Mara is simply breathtaking! Thousands of wildebeest crossing the river. Nature at its finest! 🦓",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "tags": ["#MasaiMara", "#Wildlife", "#Safari"],
+    "likes": 67,
+    "comments": 15,
+    "views": 324,
+    "credits": 82,
+    "timestamp": "5 hours ago"
+  },
+  {
+    "id": "post-3",
+    "author": {
+      "name": "Cultural Enthusiast",
+      "initials": "CE"
+    },
+    "caption": "Learning traditional beadwork from Maasai women. Such intricate artistry and cultural significance in every piece! 🎨",
+    "imageUrl": "https://images.unsplash.com/photo-1564607827881-35fd764ecd9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "tags": ["#Maasai", "#Culture", "#Crafts"],
+    "likes": 43,
+    "comments": 12,
+    "views": 198,
+    "credits": 55,
+    "timestamp": "1 day ago"
+  },
+  {
+    "id": "post-4",
+    "author": {
+      "name": "Mountain Climber",
+      "initials": "MC"
+    },
+    "caption": "Reached Point Lenana on Mount Kenya! The view from 4,985m is absolutely incredible. Worth every step! ⛰️",
+    "imageUrl": "https://images.unsplash.com/photo-1571932208282-ca5b8b7c6800?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "tags": ["#MountKenya", "#Hiking", "#Adventure"],
+    "likes": 89,
+    "comments": 23,
+    "views": 445,
+    "credits": 112,
+    "timestamp": "2 days ago"
+  },
+  {
+    "id": "post-5",
+    "author": {
+      "name": "Food Explorer",
+      "initials": "FE"
+    },
+    "caption": "Had the most amazing nyama choma at a local joint in Nairobi. The flavors were incredible! 🥩",
+    "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "tags": ["#NyamaChoma", "#KenyanFood", "#Nairobi"],
+    "likes": 31,
+    "comments": 9,
+    "views": 167,
+    "credits": 40,
+    "timestamp": "3 days ago"
+  }
+]

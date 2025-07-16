@@ -1,0 +1,155 @@
+[
+  {
+    "id": "maasai-cultural-village",
+    "name": "Authentic Maasai Cultural Village",
+    "description": "Experience traditional Maasai culture in an authentic village setting. Learn about ancient customs, participate in traditional dances, and witness the daily life of the Maasai people. Our knowledgeable guides will share stories passed down through generations about pastoralism, beadwork, and warrior traditions.",
+    "shortDescription": "Immerse yourself in authentic Maasai culture and traditions",
+    "location": "Kajiado County, Kenya",
+    "price": "$45 per person",
+    "imageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800",
+    "vibes": ["🎭 Cultural", "📚 Educational", "👥 Community"],
+    "category": "Cultural",
+    "accommodations": [
+      {
+        "id": "maasai-eco-lodge",
+        "name": "Maasai Eco Lodge",
+        "type": "Eco Lodge",
+        "distance": "1km away",
+        "price": "$75/night"
+      }
+    ]
+  },
+  {
+    "id": "karen-blixen-museum",
+    "name": "Karen Blixen Coffee Farm & Museum",
+    "description": "Step into the world of the famous author of 'Out of Africa' at this beautifully preserved colonial estate. Tour the historic farmhouse, learn about coffee cultivation in Kenya, and explore the museum showcasing artifacts from the colonial era. The property offers stunning views of the Ngong Hills and provides insight into Kenya's colonial history.",
+    "shortDescription": "Historic coffee farm and museum of the 'Out of Africa' author",
+    "location": "Karen, Nairobi",
+    "price": "$25 per person",
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800",
+    "vibes": ["📚 Historical", "☕ Coffee", "🎨 Literature"],
+    "category": "Cultural",
+    "accommodations": [
+      {
+        "id": "karen-country-lodge",
+        "name": "Karen Country Lodge",
+        "type": "Boutique Hotel",
+        "distance": "2km away",
+        "price": "$85/night"
+      }
+    ]
+  },
+  {
+    "id": "masai-mara",
+    "name": "Masai Mara National Reserve",
+    "description": "Experience the world's most spectacular wildlife migration and encounter the Big Five in their natural habitat. The Masai Mara offers an authentic African safari experience with vast savannas, abundant wildlife, and the famous Great Migration from July to October.",
+    "shortDescription": "Witness the Great Migration and experience Kenya's most famous safari destination.",
+    "location": "Narok County, Kenya",
+    "price": "From $120/day",
+    "imageUrl": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🌿 Nature", "🦁 Wildlife", "📸 Photography"],
+    "category": "Safari",
+    "accommodations": [
+      {
+        "id": "mara-safari-lodge",
+        "name": "Mara Safari Lodge",
+        "type": "Luxury lodge",
+        "distance": "2km away",
+        "price": "$340/night"
+      },
+      {
+        "id": "mara-camp",
+        "name": "Mara Wilderness Camp",
+        "type": "Tented camp",
+        "distance": "5km away",
+        "price": "$180/night"
+      }
+    ]
+  },
+  {
+    "id": "diani-beach",
+    "name": "Diani Beach",
+    "description": "Relax on pristine white sand beaches with crystal clear waters along Kenya's coast. Diani Beach offers perfect conditions for swimming, snorkeling, and water sports, with coral reefs just offshore and a vibrant beachfront community.",
+    "shortDescription": "Relax on pristine white sand beaches with crystal clear waters along Kenya's coast.",
+    "location": "Kwale County, Kenya",
+    "price": "From $45/day",
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🏖️ Beach", "☕ Relax", "🌊 Water Sports"],
+    "category": "Beach",
+    "accommodations": [
+      {
+        "id": "diani-reef-resort",
+        "name": "Diani Reef Beach Resort",
+        "type": "Resort",
+        "distance": "On beach",
+        "price": "$120/night"
+      }
+    ]
+  },
+  {
+    "id": "amboseli",
+    "name": "Amboseli National Park",
+    "description": "Get up close with elephant herds against the backdrop of Mount Kilimanjaro. Amboseli is famous for its large elephant population and stunning views of Africa's highest mountain.",
+    "shortDescription": "Get up close with elephant herds against the backdrop of Mount Kilimanjaro.",
+    "location": "Kajiado County, Kenya",
+    "price": "From $95/day",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🌿 Nature", "🐘 Elephants", "⛰️ Mountain Views"],
+    "category": "Safari"
+  },
+  {
+    "id": "lamu-island",
+    "name": "Lamu Island",
+    "description": "Step back in time in this UNESCO World Heritage site with Swahili architecture and rich cultural heritage.",
+    "shortDescription": "UNESCO World Heritage site with authentic Swahili culture and architecture.",
+    "location": "Lamu County, Kenya",
+    "price": "From $60/day",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🏛️ Culture", "🌊 Island", "🎭 Heritage"],
+    "category": "Cultural"
+  },
+  {
+    "id": "mount-kenya",
+    "name": "Mount Kenya National Park",
+    "description": "Challenge yourself with hiking and climbing on Africa's second-highest mountain.",
+    "shortDescription": "Africa's second-highest mountain offering hiking and climbing adventures.",
+    "location": "Central Kenya",
+    "price": "From $80/day",
+    "imageUrl": "https://images.unsplash.com/photo-1571932208282-ca5b8b7c6800?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["⛰️ Mountains", "🥾 Hiking", "🌿 Nature"],
+    "category": "Adventure"
+  },
+  {
+    "id": "tsavo-east",
+    "name": "Tsavo East National Park",
+    "description": "Explore one of Kenya's largest parks known for red elephants and diverse wildlife.",
+    "shortDescription": "Kenya's largest park famous for red elephants and diverse wildlife.",
+    "location": "Eastern Kenya",
+    "price": "From $70/day",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🐘 Wildlife", "🌿 Nature", "📸 Photography"],
+    "category": "Safari"
+  },
+  {
+    "id": "nairobi-national-park",
+    "name": "Nairobi National Park",
+    "description": "Experience wildlife safari just minutes from Kenya's capital city.",
+    "shortDescription": "Unique wildlife experience just minutes from Nairobi city center.",
+    "location": "Nairobi, Kenya",
+    "price": "From $50/day",
+    "imageUrl": "https://images.unsplash.com/photo-1564607827881-35fd764ecd9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🦏 Wildlife", "🏙️ City", "🌿 Nature"],
+    "category": "Safari"
+  },
+  {
+    "id": "lake-nakuru",
+    "name": "Lake Nakuru National Park",
+    "description": "Witness millions of flamingos and diverse birdlife in this alkaline lake ecosystem.",
+    "shortDescription": "Famous for flamingo populations and diverse birdlife around alkaline lake.",
+    "location": "Nakuru County, Kenya",
+    "price": "From $65/day",
+    "imageUrl": "https://images.unsplash.com/photo-1564607827881-35fd764ecd9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🦩 Birds", "🌊 Lake", "📸 Photography"],
+    "category": "Nature"
+  }
+]

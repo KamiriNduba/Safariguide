@@ -1,0 +1,98 @@
+[
+  {
+    "id": "nakuru-wildlife-photography-workshop",
+    "title": "Lake Nakuru Wildlife Photography Workshop",
+    "description": "Join professional photographers for a hands-on workshop in Lake Nakuru National Park. Learn advanced techniques for capturing wildlife, landscapes, and bird photography. Workshop includes equipment rental, guided safari drives, and post-processing sessions.",
+    "shortDescription": "Professional wildlife photography workshop in Lake Nakuru",
+    "date": "Mar 8-10, 2024",
+    "price": "$180",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+    "vibes": ["📸 Photography", "🦁 Wildlife", "🌿 Nature"],
+    "category": "functional",
+    "location": "Lake Nakuru National Park"
+  },
+  {
+    "id": "mombasa-dhow-sailing-experience",
+    "title": "Traditional Dhow Sailing Experience",
+    "description": "Experience the ancient art of dhow sailing along the Kenyan coast. Learn traditional sailing techniques, enjoy fresh seafood lunch on board, and explore hidden coves and pristine beaches. Perfect for families and adventure seekers.",
+    "shortDescription": "Traditional dhow sailing adventure along the Kenyan coast",
+    "date": "Every Saturday & Sunday",
+    "price": "$65",
+    "imageUrl": "https://images.unsplash.com/photo-1571919743851-2a3ba57307cc?w=800",
+    "vibes": ["⛵ Adventure", "🌊 Ocean", "🎣 Traditional"],
+    "category": "recreational",
+    "location": "Mombasa Coast"
+  },
+  {
+    "id": "lamu-cultural-festival",
+    "title": "Lamu Cultural Festival",
+    "description": "Experience traditional Swahili culture, music, and dhow races in the historic Lamu Island. This annual festival celebrates the rich heritage of the Swahili coast with traditional dance, poetry, and cultural exhibitions.",
+    "shortDescription": "Experience traditional Swahili culture, music, and dhow races.",
+    "date": "Dec 15-17, 2024",
+    "price": "$25",
+    "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🎭 Cultural", "🎵 Music", "⛵ Traditional"],
+    "category": "recreational",
+    "location": "Lamu Island"
+  },
+  {
+    "id": "nairobi-food-festival",
+    "title": "Nairobi Food & Wine Festival",
+    "description": "Taste authentic Kenyan cuisine and international flavors from top chefs and local vendors. Features cooking demonstrations, wine tastings, and food competitions.",
+    "shortDescription": "Taste authentic Kenyan cuisine and international flavors.",
+    "date": "Jan 20-22, 2024",
+    "price": "$35",
+    "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🍽️ Food", "🍷 Wine", "👨‍🍳 Culinary"],
+    "category": "recreational",
+    "location": "Nairobi"
+  },
+  {
+    "id": "tech-summit",
+    "title": "East Africa Tech Summit",
+    "description": "Network with tech entrepreneurs and investors from across East Africa. Features keynote speakers, startup pitches, and technology exhibitions.",
+    "shortDescription": "Network with tech entrepreneurs and investors.",
+    "date": "Feb 5-7, 2024",
+    "price": "$150",
+    "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["💼 Business", "💻 Technology", "👥 Networking"],
+    "category": "functional",
+    "location": "Nairobi"
+  },
+  {
+    "id": "rhino-charge",
+    "title": "Rhino Charge",
+    "description": "Annual off-road motorsport event that raises funds for rhino conservation. Teams navigate through challenging terrain in a timed competition.",
+    "shortDescription": "Off-road motorsport event supporting rhino conservation.",
+    "date": "Jun 8, 2024",
+    "price": "$75",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🏁 Racing", "🦏 Conservation", "🌿 Outdoor"],
+    "category": "recreational",
+    "location": "Various Locations"
+  },
+  {
+    "id": "business-conference",
+    "title": "Kenya Business Conference",
+    "description": "Annual conference bringing together business leaders, entrepreneurs, and investors to discuss economic opportunities in Kenya and East Africa.",
+    "shortDescription": "Business leaders conference on economic opportunities.",
+    "date": "Mar 12-14, 2024",
+    "price": "$200",
+    "imageUrl": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["💼 Business", "💰 Investment", "👥 Networking"],
+    "category": "functional",
+    "location": "Nairobi"
+  },
+  {
+    "id": "maasai-cultural-day",
+    "title": "Maasai Cultural Day",
+    "description": "Immerse yourself in traditional Maasai culture with authentic dances, ceremonies, and cultural practices in a traditional village setting.",
+    "shortDescription": "Experience authentic Maasai culture and traditions.",
+    "date": "Monthly Events",
+    "price": "$40",
+    "imageUrl": "https://images.unsplash.com/photo-1564607827881-35fd764ecd9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    "vibes": ["🎭 Cultural", "💃 Dance", "🏛️ Traditional"],
+    "category": "recreational",
+    "location": "Masai Mara Region"
+  }
+]

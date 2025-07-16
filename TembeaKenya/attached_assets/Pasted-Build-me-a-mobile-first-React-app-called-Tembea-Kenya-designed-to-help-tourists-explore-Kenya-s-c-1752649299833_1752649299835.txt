@@ -1,0 +1,115 @@
+Build me a mobile-first React app called “Tembea Kenya”, designed to help tourists explore Kenya’s culture, places, and events through personalized recommendations, chatbot guidance, and a content-sharing community. Use React + Tailwind CSS. No backend needed—use local JSON and useState/useEffect.
+
+🌍 Pages & Features
+1. Places Page
+A scrollable list of tourist places. Each item includes:
+
+Image, name, and short description
+
+Icons with vibe tags (e.g., 🎵 "Music", 🖼️ "Art", 🌿 "Nature", ☕ "Relax")
+
+On click: Show full page with:
+
+Description, location, prices
+
+Nearby hotels/cafés
+
+“View AR” (placeholder button)
+
+Events happening at this place
+
+2. Events Page
+Split into two categories:
+
+Recreational (e.g., food festivals, dance nights)
+
+Functional (e.g., networking, community workshops)
+Each event includes:
+
+Title, image, short description
+
+Vibe icons (🎨 Art, 🎶 Music, 👥 Social, 🌄 Outdoor, etc.)
+
+On click: Show full details + option to book (fake booking)
+
+3. Chatbot Assistant
+A simulated AI chatbot that:
+
+Uses text input and basic voice input (use any simple voice-to-text placeholder logic)
+
+Asks about user’s interests, travel style, and budget
+
+Recommends places and events (based on local JSON)
+
+Can book events or places (fake logic)
+
+Collects post-visit feedback
+
+Sends feedback automatically to relevant event/venue managers (mocked)
+
+4. Collections Page
+Shows user’s saved places and events as cards or a grid
+
+Populated automatically by chatbot recommendations or by user favorites
+
+5. About You Page
+Form collects:
+
+Name, travel style, interests (checkbox), accessibility preferences
+
+Budget range
+This data powers personalized chatbot suggestions
+
+6. Community Page
+A social page where users post photos or short videos of places/events
+
+Each post has: image, caption, author, tags, likes counter, views counter
+
+Likes + views = “credits” shown as a number on the post
+
+Credits are displayed and can be described as “convertible to rewards” (no real payout logic needed)
+
+🔐 Admin System
+On landing/login screen:
+
+Two login types: Traveler and Host
+
+Under both, allow universal login with:
+
+Username: Administrator
+
+Password: 1234567890
+
+If admin logs in, redirect to Admin Dashboard
+
+Admin Dashboard should include:
+
+View and approve/reject new place/event submissions
+
+View all user feedback submitted via chatbot
+
+View and manage community posts
+
+View pending reviews and feedback sorted by venue/event
+
+Event & Venue Management Profile (For Hosts)
+Hosts can log in and:
+
+See their submitted places/events
+
+Edit info, upload tags/icons (e.g., 🎶 Music, 🎭 Theater)
+
+View feedback from tourists (via chatbot pipeline)
+
+📌 Design & Behavior
+Use React + Tailwind CSS
+
+Icons for vibes (music, food, nature, social, art) using emoji or icon packs
+
+Responsive and mobile-first layout
+
+Voice-to-text for chatbot input (placeholder functionality or button that simulates speech input)
+
+All data (places, events, users, community posts, feedback) can be local JSON files or useState variables
+
+Make the UI simple, colorful, and traveler-friendly. The chatbot should be the main interaction hub. Prioritize simulated features that give the feel of a fully functional ecosystem for the demo.
